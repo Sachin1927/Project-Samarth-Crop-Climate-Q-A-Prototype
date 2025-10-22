@@ -1,7 +1,5 @@
 # Project-Samarth-Crop-Climate-Q-A-Prototype
 
-
-# 🌾 Project Samarth: Crop & Climate Q&A Prototype
  
 It uses **real-time government datasets** from [data.gov.in](https://data.gov.in), combined with intelligent querying and a simple **Gradio interface**, to answer natural language questions related to **crop production, rainfall patterns, and climate trends**.
 
